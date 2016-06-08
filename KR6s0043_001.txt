@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:02.753888
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:58
 #+TITLE: 和菩薩戒文
 #+PROPERTY: CBETA_ID T85n2851
 #+PROPERTY: ID KR6s0043
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2851
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0043_T_000-1300b>¶¶¶
 #+PROPERTY: LASTPB <pb:KR6s0043_T_001-1300b> ¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2851¶
-
- 和菩薩戒文一本¶
+No. 2851¶
+和菩薩戒文一本¶
 ¶
 
 涼心渴仰專注法音。惟願戒師廣垂湖演¶
