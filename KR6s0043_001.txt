@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:02.753888
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:58
 #+TITLE: 和菩薩戒文
 #+PROPERTY: CBETA_ID T85n2851
 #+PROPERTY: ID KR6s0043
